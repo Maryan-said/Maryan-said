@@ -1,10 +1,10 @@
 <h1 align="center">💫 Hi, I'm Maryan Said Farah 👩🏽‍💻</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Explorer | 🌍 Lifelong Learner Based in Germany 🇩🇪</h3>
+<h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🌍 Lifelong Learner Based in Germany 🇩🇪</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F97316&center=true&width=435&lines=Building+beautiful+web+experiences;Collaborating+on+real+projects;Learning+AI+and+Web+3.0+tools;Open+to+mentorship+and+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F97316&center=true&width=435&lines=Building+beautiful+web+experiences;Learning+modern+Frontend+tools;Exploring+React+and+TailwindCSS;Open+to+collaboration+and+growth" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,18 +12,19 @@
 ### 💌 Let’s Connect
 
 - 📧 **Email:** [maryan.said.farah@gmail.com](mailto:maryan.said.farah@gmail.com)  
-- 🤝 **Available for:** Freelance • Collaboration • Mentorship • Open Source Contributions  
+- 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
 - 🌐 **GitHub:** [github.com/Maryan-said](https://github.com/Maryan-said)
 
 ---
 
 ## 🚀 What I'm Doing Right Now
 
-- 🔭 Building practical full-stack web applications  
-- 🤖 Exploring AI integrations with modern frontend tools  
-- ✨ Learning Supabase, OpenAI APIs, and Tailwind best practices  
-- 🧠 Writing clean, reusable, and accessible HTML/CSS/JS code  
-- 🌱 Practicing GitHub collaboration and project workflows  
+- 🔭 Building projects with **HTML, CSS, JavaScript, React, TailwindCSS**  
+- 🎨 Sharpening my **UI/UX design skills**  
+- 🌱 Practicing **Git & GitHub workflows** for team collaboration  
+- 📚 Exploring **AI & Web 3.0 tools** step by step  
+- ✨ Writing clean, reusable, and accessible code  
+
 
 ---
 
